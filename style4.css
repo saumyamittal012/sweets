@@ -1,0 +1,70 @@
+
+
+h1{
+   text-align: center;
+   padding-right: 400px; 
+   color: rgb(231, 7, 157);
+   font-weight: 100%;
+   font-style: italic;
+   font: 100%;
+   border: 20px solid pink;
+   background-color:pink;
+}
+.head img{
+    margin-top: 0%;
+    width:auto;
+    height: 50px;
+     float: left;  
+     border-radius: 60%;
+     margin-right: 19%;
+     size: 50px;
+     padding-left:5px;
+}
+body{
+    
+  background-image: url("https://th.bing.com/th/id/R.0f0e30a4d743f44367ac805426000fe6?rik=rbS2zIEfp24Lpg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-Aupx9jIp22k%2fT2bSff-77sI%2fAAAAAAAAAJs%2fgm0vhON1Cl4%2fs1600%2fwhite%2bbackground2.jpg&ehk=aoypgmv0Wv7jbOl2B0dIsyihjVXvbenW1lLpuwGB7Q8%3d&risl=&pid=ImgRaw&r=0");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+p{
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-display: relative;
+    font-weight: bold;
+    margin-top: 10%;
+    color: rgb(180, 6, 122);
+   top: 20px;
+   bottom: 10px;
+  
+}
+
+.para img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    float: left;
+   
+    
+}
+.para{
+    display: flex;
+    border: 10px solid pink;
+    width: auto;
+    height: 650px;
+
+}
+.para1{
+    display: flex;
+    border: 10px solid pink;
+    width: auto;
+    height: 650px;
+}
+.para1 img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    float: left;
+    height: 500px;
+}
+

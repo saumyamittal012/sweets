@@ -1,0 +1,83 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.navbars{
+   background-color: rgb(236, 76, 188);
+    border-radius: 5px;
+
+}
+.navbars ul{
+    overflow: auto;
+   
+    
+    
+}
+.navbars img{
+    margin-top: 10px;
+    width:auto;
+    height: 50px;
+     float: left;  
+     border-radius: 60%;
+     margin-right: 19%;
+     size: 20px;
+}
+.navbars li{
+    float: left;
+    list-style: none;
+    margin: 25px 20px;
+    font-weight: bold;
+    font-size: large;
+    border:2px solid rgb(221, 109, 126);
+    border-inline-color:rgb(104, 5, 51);
+    writing-mode: horizontal-tb;
+    direction: rtl;
+    background-color:pink;
+    text-transform: capitalize;
+    color: rgb(88, 7, 48);
+   
+}
+.navbars li a{
+    padding:13px 13px;
+    text-decoration: none;
+    color: rgb(20, 1, 1);
+    font-weight: bold;
+    
+}
+.navbars li:hover {
+    background-color:rgb(206, 154, 188);
+}
+
+
+ marquee{
+    color: rgb(139, 39, 8);
+   font-style: italic;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 0%;
+   text-shadow: 10%;
+   padding-left: 0%;
+   font-size: 200%;
+   font-weight: bold;
+ }
+ body{
+background-image: url("https://wallpapercave.com/wp/wp4785193.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+ }
+ .button a:link,a:visited{
+    background-color: rgb(78, 5, 60);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    bottom: 2px;
+    right: 2px;
+    position: fixed;
+    }
+    .button a:hover,a:active{
+    background-color: rgb(203, 96, 224);
+    color: rgb(61, 7, 82);
+    }
+   

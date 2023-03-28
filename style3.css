@@ -1,0 +1,67 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+font-family: 'Times New Roman', Times, serif;
+}
+body{
+background-image: url("https://th.bing.com/th/id/R.78527cef62514e8adf44d4b3489f35d4?rik=B4tAEimoi%2bbw%2fw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-VdULbSGJ3I8%2fUBuq3kI0ChI%2fAAAAAAAAAxo%2f4m0VqJvsBFY%2fs1600%2fweb-page-backgrounds-1.jpg&ehk=09FfYfdUdO2e9DbeNBQcB%2bt34M6baAdvavvag0ej9Zk%3d&risl=&pid=ImgRaw&r=0");
+background-position: center;
+background-size: cover;
+}
+.text{
+width: 75%;
+max-width: 600px;
+background-color:pink;
+position: absolute;
+top: 20%;
+left:30%;
+padding: 30px 40px;
+border-radius: 8px;
+text-align: center;
+}
+.form{
+display: flex;
+flex-direction: column;
+margin: 7px 0px ;
+padding: 6px 20px ;
+border-radius: 8px;
+} 
+.text h1{
+font-weight: 400;
+margin-top: 0px;
+}
+.form input, textarea{
+padding: 5px 10px;
+margin: 10px 0px;
+height: 40px;
+outline: none;
+}
+.form textarea{
+height: 100px;
+resize: none;
+}
+.button{
+width: 100%;
+display: inline-block;
+background-color: green;
+padding: 14px 0px;
+text-decoration: none;
+text-transform: uppercase;
+margin-top: 8px;
+color: antiquewhite;
+}
+.button:hover{
+color:black;
+background-color: orange;
+}
+.text img{
+    margin-top: 0%;
+    width: 50px;
+    height: 50px;
+    float: left;
+     border-radius: 60%;
+     margin-right: 0%;
+     margin-left: 0%;
+     size: 20px;
+}

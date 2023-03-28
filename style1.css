@@ -1,0 +1,74 @@
+.head div{
+    border: 10px groove rgb(153, 30, 153);
+    text-decoration-color: rgb(184, 111, 221);
+    color: darkmagenta;
+    font-family:cursive;
+    text-decoration: wavy;
+    padding-left: 0%;
+    padding-right: 5%;
+    border-inline-color:rgb(104, 5, 51);
+    writing-mode: horizontal-tb;
+    direction: ltr;
+    background-color:pink;
+    border-radius: 10px;
+    
+    
+}
+.head img{
+    margin-top: 2px;
+    width:auto;
+    height: 40px;
+     float: left;  
+     border-radius: 60%;
+     margin-right: 19%;
+     size: 20px;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px double #ccc;
+    float: left;
+    width: 180px; 
+    padding-left: 0%;
+   padding-top: 0%;
+   padding-right: 0%;
+   padding-bottom: 1%;
+   margin-top: 2%;
+   margin-left: 2%;
+   margin-bottom: 2%;
+   margin-right: 2%;
+   filter: brightness(120%);
+   filter: contrast(120%);
+   filter: drop-shadow(10px 10px 10px rgb(231, 77, 162));
+
+}
+
+
+   div.gallery:hover {
+    border: 1px double #770b53; 
+}
+   div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+   div.desc {
+    padding: 10px;
+    text-align: center;
+    background-color: #770b53;
+    color: antiquewhite;
+   }
+body{
+    background-image: url("https://img.wallpapersafari.com/desktop/1440/900/65/62/fWyrAl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.buy{
+    color: lawngreen;
+    font-display: block;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.buy:hover{
+    background-color: rgb(252, 253, 252);
+}
